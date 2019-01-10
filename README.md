@@ -1,4 +1,4 @@
-# Project Title
+# ISP Coverage Information Web Crawler 
 
 This python web crawler collects the ISP Coverage information from https://geoisp.com/, as well as city and county information from wikipedia. The collected data will be inserted into a local mysql database.
 
