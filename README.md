@@ -23,4 +23,4 @@ The collected data are store in four tables (city, county, covrecord, ispinfo). 
 
 ## Authors
 
-* **Huan Wang Computer Science, UVic, Canada** 
+* **Huan Wang, Computer Science, UVic, Canada** 
