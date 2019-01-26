@@ -19,9 +19,7 @@ python crawler.py
 
 ## Sample Collected Data
 
-The collected data are store in four tables (city, county, covrecord, ispinfo). The sample collected data should look like this:
-
-![alt text](http://web.uvic.ca/~huanwang/images/crawler/covrecord.JPG)
+The collected data are store in four tables (city, county, covrecord, ispinfo). The sample collected data could find from here: http://web.uvic.ca/~huanwang/images/crawler/
 
 ## Authors
 
