@@ -6,7 +6,7 @@ Two types of ISP privoder are considered: DSL and Cable.
 
 ## Prerequisites
 
-Python: python version 3.6 or higher is needed, Python library Beautiful Soup (bs4), requests, as well as mysql are needed.
+Python: python version 3.6 or higher is needed, Python library **Beautiful Soup (bs4)**, **requests**, as well as **mysql** are needed.
 MySql server end is needed.
 
 ## Configuration
